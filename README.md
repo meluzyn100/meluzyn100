@@ -86,7 +86,7 @@
 <h2 align="center">📫 Let's Connect 📫</h2>
 
 <p align="center">
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/aleksander-j-a12a27231/" target="_blank">
+    <a href="www.linkedin.com/in/aleksander-j-a12a27231/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:aleksander.jakobczyk@gmail.com" target="_blank">
