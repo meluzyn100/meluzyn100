@@ -6,8 +6,6 @@
 
 <h2 align="center">🌟 About Me 🌟</h2>
 
-
-
 <ul>
     <li>🎓 <strong>Mathematics Graduate</strong> with a passion for <strong>Machine Learning</strong> and <strong>Data Engineering</strong>.</li>
     <li>🌱 Currently diving deeper into <strong>AI-driven solutions</strong> and <strong>Big Data technologies</strong>.</li>
@@ -23,140 +21,50 @@
 
 <h2 align="center">🛠️ My Toolbox 🛠️</h2>
 
-<p align="center">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40"/>
-    </a>
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" height="40"/>
-    </a>
-    <a href="https://keras.io/" target="_blank" rel="noreferrer">
-        <img src="https://avatars.githubusercontent.com/u/34455048?s=48&v=4" alt="Keras" height="40"/>
-    </a>
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" height="40"/>
-    </a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" height="40"/>
-    </a>
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" height="40"/>
-    </a>
-    <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://spark.apache.org/images/spark-logo-rev.svg" alt="Apache Spark" height="40"/>
-    </a>
-    <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" height="40"/>
-    </a>
-    <a href="https://mlflow.org/" target="_blank" rel="noreferrer">
-        <img src="https://mlflow.org/img/mlflow-black.svg" alt="MLflow" height="40"/>
-    </a>
-    <a href="https://dvc.org/" target="_blank" rel="noreferrer">
-        <img src="https://dvc.org/img/logos/dvc.svg" alt="DVC" height="40"/>
-    </a>
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.svgrepo.com/show/473611/flask.svg" alt="Flask" height="40"/>
-    </a>
-    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-        <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.svg" alt="FastAPI" height="40"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40"/>
-    </a>
-    <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" height="40"/>
-    </a>
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" height="40"/>
-    </a>
-    <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" height="40"/>
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="40"/>
-    </a>
-    <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/GitLab_logo.svg" alt="GitLab" width="120" height="40"/>
-    </a>
-    <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" height="40"/>
-    </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="40"/>
-    </a>
-    <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" height="40"/>
-    </a>
-    <a href="https://about.gitlab.com/topics/ci-cd/" target="_blank" rel="noreferrer">
-        <img src="https://www.bensonmurimi.com/media/diary/cicd-easy-way-with-gitlab5bec5b8a111b6.png" alt="CI/CD" height="40"/>
-    </a>
-    <a href="https://grafana.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" height="40"/>
-    </a>
-    <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" height="40"/>
-    </a>
-    <a href="https://roboflow.com/" target="_blank" rel="noreferrer">
-        <img src="https://logosandtypes.com/wp-content/uploads/2025/02/roboflow.svg" alt="Roboflow" height="40"/>
-    </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="Bash" height="40"/>
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="40"/>
-    </a>
-    <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" alt="Ubuntu" height="40"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40"/>
-    </a>
-    <a href="https://julialang.org/" target="_blank" rel="noreferrer">
-        <img src="https://julialang.org/assets/infra/logo.svg" alt="Julia" height="40"/>
-    </a>
-    <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" height="40"/>
-    </a>
-    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" height="40"/>
-    </a>
-    <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.latex-project.org/img/latex-project-logo.svg" alt="TeX/LaTeX" height="40"/>
-    </a>
-    <a href="https://www.wolfram.com/language/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/WolframCorporateLogo.svg" alt="Wolfram Language" height="40"/>
-    </a>
-    <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.anaconda.com/wp-content/uploads/2022/12/anaconda_secondary_logo.svg" alt="Anaconda" height="40"/>
-    </a>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" height="40"/>
-    </a>
-    <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-        <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter" height="40"/>
-    </a>
-    <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" height="40"/>
-    </a>
-    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" height="40"/>
-    </a>
-    <a href="https://gephi.org/" target="_blank" rel="noreferrer">
-        <img src="https://gephi.org/clique/images/logo.svg" alt="Gephi" height="40"/>
-    </a>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" height="40"/>
-    </a>
-</p>
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-2E4053?style=for-the-badge&logo=seaborn&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=getpostman&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-00ADD8?style=for-the-badge&logo=gitlab-ci&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Roboflow](https://img.shields.io/badge/Roboflow-FF9900?style=for-the-badge&logo=roboflow&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/Matlab-FF7733?style=for-the-badge&logo=MEGA&logoColor=white)
+![TeX/LaTeX](https://img.shields.io/badge/TeX%2FLaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Wolfram Language](https://img.shields.io/badge/Wolfram_Language-DD1100?style=for-the-badge&logo=wolfram&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=codeium&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Gephi](https://img.shields.io/badge/Gephi-0099CC?style=for-the-badge&logo=gephi&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
 
 ---
